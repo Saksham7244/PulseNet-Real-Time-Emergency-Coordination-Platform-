@@ -65,7 +65,7 @@ PulseNet/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/radamourya7/PulseNet-Real-Time-Emergency-Coordination-Platform.git
+git clone https://github.com/Saksham7244/PulseNet-Real-Time-Emergency-Coordination-Platform-
 cd PulseNet-Real-Time-Emergency-Coordination-Platform
 ```
 
